@@ -26,3 +26,34 @@
 ![image](https://github.com/user-attachments/assets/93329ef1-18bb-4433-97b6-fc23cb971dcb)
 
 # 
+- <strong> 📝 Tecnologias:</strong>
+
+  JavaScript;
+      <br>
+  React;
+      <br>
+  Next.js;
+    <br>
+ Entre outras ferramentas;
+ #
+ - <strong> 👩🏾‍💻 Documentação:</strong>
+ 
+ JavaScript - MDN Web Docs: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript;
+    <br>
+  React - Documentação oficial: https://pt-br.react.dev/;
+    <br>
+Next.js - Documentação oficial: https://nextjs.org/;
+    <br>
+
+#
+
+- <strong> 📝 Semanas de desenvolvimento:</strong>
+
+    SEMANA 1;
+      <br>
+    SEMANA 2;
+      <br>
+    SEMANA 3;
+      <br>
+ #
+ 
